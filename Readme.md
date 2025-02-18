@@ -43,7 +43,7 @@ root-directory/
 
 ## ![Music Library Page- Admin](./screenshots/Admin-view.png)
 
-## ![Music Library Page- Add Song Modal](./screenshots/Add-newsong.png)
+## ![Music Library Page- Add Song Modal](./screenshots/Add-new-song.png)
 
 ## Getting Started
 
