@@ -1,0 +1,6 @@
+[submodule "host-app"]
+	path = host-app
+	url = https://github.com/NitinMangrule/microfrontend-host-app.git
+[submodule "remote-app"]
+	path = remote-app
+	url = https://github.com/NitinMangrule/microfrontend-remote-app.git
